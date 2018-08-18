@@ -1,6 +1,6 @@
 {
 	"name": "mynum",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Number to Burmese Words",
 	"main": "dist/node/source/index.js",
 	"types": "dist/node/source/index.d.ts",
