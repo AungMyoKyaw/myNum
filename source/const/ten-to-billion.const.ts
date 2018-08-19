@@ -9,4 +9,4 @@ const format: String[] = [
 	'ကုဋေ'
 ];
 
-export default format;
+export default format.reverse();

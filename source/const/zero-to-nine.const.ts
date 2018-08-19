@@ -23,3 +23,5 @@ export const numeral: String[] = [
 	'၈',
 	'၉'
 ];
+
+export const float_name: String = 'ဒဿမ';

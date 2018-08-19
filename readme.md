@@ -30,6 +30,12 @@ const { written } = my_num;
 console.log(written); //ကိုးကုဋေကိုးသန်းကိုးသိန်းကိုးသောင်းကိုးထောင်ကိုးရာကိုးဆယ်ကိုး
 ```
 
+```javascript
+const my_float = new myNum(9999.9999);
+const { written } = my_float;
+console.log(written); //ကိုးထောင်ကိုးရာကိုးဆယ်ကိုးဒဿမကိုးကိုးကိုးကိုး
+```
+
 ### numeral
 
 ```javascript
@@ -37,6 +43,12 @@ const myNum = require('mynum');
 const my_num = new myNum(99999999);
 const { numeral } = my_num;
 console.log(numeral); //၉၉၉၉၉၉၉၉
+```
+
+```javascript
+const my_float = new myNum(9999.9999);
+const { numeral } = my_float;
+console.log(numeral); //၉၉၉၉.၉၉၉၉
 ```
 
 ## Test
