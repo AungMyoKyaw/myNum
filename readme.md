@@ -18,7 +18,7 @@ npm install --save mynum
 
 ## web
 
-```shell
+```html
 <script src="https://unpkg.com/mynum@latest/dist/web/mycal.min.js"></script>
 ```
 
